@@ -13,3 +13,4 @@ Work backwards
 Block portfolio review as a narrative cover xpn and load balancing
 Have very short intro / resume using The Groovy reveal slides to suggest you're okay who is running some technology on your laptop
 Move from there in the portfolio review in Keynote. prepare two examples for each of the leadership principles
+
